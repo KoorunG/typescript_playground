@@ -1,2 +1,5 @@
 # Project exclude paths
 /PracTS.js
+
+# node_modules
+node_modules/
